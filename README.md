@@ -7,7 +7,7 @@ It offers a sleeker, more modern look with subtle improvements like a transparen
 
 # Improvements
 - Transparent panel
-- Increased bottom border size (to fix a 2px cutoff issue on my monitor).
+- Increased bottom border size (to fix a 2px cutoff issue on my monitor)
 - New Start Menu Icon: [Mint10 X By Hendra](https://www.gnome-look.org/p/1324625)
 
 # Installation
